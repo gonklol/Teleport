@@ -1,0 +1,3 @@
+I need a resource, that when you walk up to a location, and press E, it will go to the server side, 
+check a permission and if your steam hex is in a database table, it will teleport you to some other set of coords, 
+but if its not in the database, do nothing.
